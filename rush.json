@@ -455,6 +455,11 @@
       "packageName": "@react/template",
       "projectFolder": "template",
       "reviewCategory": "production"
+    },
+    {
+      "packageName": "@react/listsAndListItems",
+      "projectFolder": "listsAndListItems",
+      "reviewCategory": "production"
     }
     // 
     // {
